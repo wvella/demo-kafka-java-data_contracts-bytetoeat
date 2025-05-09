@@ -23,7 +23,7 @@ This project demonstrates **4 key capabilities of Data Contracts**:
 ![demo-architecture](demo.png)
 
 #### Demo Recording
-See the demo-recording-480p.mp4 file in the directory
+See the `demo-recording-480p.mp4` file in the directory
 
 
 ### 🔧 Built With
