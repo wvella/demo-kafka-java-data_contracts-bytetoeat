@@ -1,0 +1,10 @@
+io/confluent/wvella/demo/datacontractsv2/Recipe$1.class
+io/confluent/wvella/demo/datacontractsv2/ProducerAvroRecipe$1.class
+io/confluent/wvella/demo/datacontractsv2/Recipe$Builder.class
+io/confluent/wvella/demo/datacontractsv2/Util.class
+io/confluent/wvella/demo/datacontractsv2/Ingredient$Builder.class
+io/confluent/wvella/demo/datacontractsv2/Recipe.class
+io/confluent/wvella/demo/datacontractsv2/SpiceLevel.class
+io/confluent/wvella/demo/datacontractsv2/ProducerAvroRecipe.class
+io/confluent/wvella/demo/datacontractsv2/Ingredient.class
+io/confluent/wvella/demo/datacontractsv2/Ingredient$1.class
